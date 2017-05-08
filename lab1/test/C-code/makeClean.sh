@@ -1,0 +1,1 @@
+/bin/rm *.o Example
